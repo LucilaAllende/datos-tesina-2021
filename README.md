@@ -1,8 +1,11 @@
 # datos-tesina-2021
 Datos del clima, de la producción y del forraje.
 
+Datos del clima extraidos de: http://sipas.inta.gob.ar/?q=agrometeorologia-listado-estaciones 
+Datos de produccion proporcionados por el dueño del campo
+
 ## Datos
-1. datos_climaticos_anuales_35.csv: Son los promedios anuales de la sonda de Trelew ():
+1. datos_climaticos_anuales_35.csv: Son los promedios anuales de la sonda de Trelew (id: Trelew [ Vantage Pro2 ] - Latitud / Longitud / altura:	43.16.21 / 65.21.42 / 13 msnm):
     - fecha, el ultimo día del año ya que es el promedio anual
     - temp_media,
     - temp_min,
