@@ -1,11 +1,12 @@
 # datos-tesina-2021
 ## Datos del clima, de la producción y del forraje.
 
-Datos del clima extraidos de: http://sipas.inta.gob.ar/?q=agrometeorologia-listado-estaciones. 
-Datos de producción proporcionados por el dueño del campo
+1. Datos del clima extraidos de: http://sipas.inta.gob.ar/?q=agrometeorologia-listado-estaciones. 
+2. Datos de producción proporcionados por el dueño del campo.
+3. Datos del forraje proporcionados por Diego.
 
 
-Sonda de Trelew:
+*Sonda de Trelew*:
 - id: Trelew [ Vantage Pro2 ] 
 - Latitud / Longitud / altura:	43.16.21 / 65.21.42 / 13 msnm
 
@@ -30,6 +31,12 @@ Sonda de Trelew:
     - kilo_lana_p/animal, (temporada de esquila)
     - porcentaje_paricion (temporada de paricion)
 3. datos_produccion_clima_35.csv: es una combinacion de los datasets anteriores
+4. datos_forraje.csv:
+    - CG es gastre, 
+    - CT es telsen, 
+    - CPI es paso de indio, 
+    - CM Mártires
+
 
 ## Cuadernos de Jupyter
 
