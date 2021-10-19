@@ -1,0 +1,37 @@
+id;nombre;latitud;longitud;altura;pertenencia;inicio_actividad;localidad;id_inta;ubicacion_exacta
+115;28 de Julio    [ Vantage Pro2 ];0.0;0.0;36.0;INTA;NOV  2006 ;28 de Julio;3;Chacra 25 de Julio
+116;Arroyo Pescado   [ Davis ];-42.58;-70.38;36.0;INTA;MAY  2005 ;Arroyo Pescado;15;Ea.Arroyo Pescado
+117;Bustillo   ;-42.42;-71.37;36.0;INTA;JUN  2009 ;Puerto Bustillo;50;Hidr. Fut  Puerto Bustillo
+118;Colan Conhué   [ NIMBUS ];0.0;0.0;36.0;INTA;OCT  2015 ;None;60;None
+119;Corcovado(dir.bosques)   [ Davis ];-43.32;-71.27;36.0;INTA;SEP  2009 ;Corcovado;62;Dir. Bos  Corcovado
+120;Cushamen   [ Vantage Pro2 ];0.0;0.0;36.0;INTA;SEP  2008 ;Cushamen;25;Localidad de Cushamen
+121;Dolavon  Torroija   [ iMetos ];0.0;0.0;36.0;INTA;AGO  2014 ;Dolavon;54;Chacra Dolavon
+122;El Calafate   [ Davis ];-50.21;-72.16;36.0;INTA;ENE  2008 ;El Calafate;8;Santa Cruz
+123;El Hoyo    [ Vantage Pro2 ];-42.06;-71.27;36.0;INTA;ENE  2009 ;El Hoyo;5;Chacra El Monje
+124;El Maitén   [ Vantage pro2 ];-42.02;-71.1;36.0;INTA;JUN  2006 ;El Maiten;6;El Maiten
+125;Epuyen(dir.bosques)   [ Davis ];-42.12;-71.25;36.0;INTA;AGO  2009 ;Epuyen;63;Dir. Bos  Epuyen
+126;Escuela Nº 725  Sarmiento   [ Davis VantageVue ];-45.36;-69.04;36.0;INTA;MAR  2013 ;Sarmiento;47;Escuela N 725 Sarmiento
+127;Escuela Nº 92  Sepaucal   [ Davis VantageVue ];-42.16;-67.24;36.0;INTA;AGO  2012 ;Telsen;46;Escuela N 92 Sepaucal
+128;Escuela Nº 95  Telsen   [ Davis VantageVue ];-42.26;-66.56;36.0;INTA;AGO  2012 ;Telsen;45;Escuela 95  Telsen
+129;Estancia Cerro Bombero   [ Davis ];0.0;0.0;36.0;INTA;JUL  2007 ;San Julian;7;Estancia Cerro Bombero San Julián
+130;Estancia Cullen   [ NIMBUS ];0.0;0.0;36.0;INTA;NOV  2011 ;Tierra del Fuego;44;Estancia Cullen  Tierra del Fuego
+131;Estancia Kalken Aike   [ NIMBUS ];0.0;0.0;36.0;INTA;NOV  2011 ;Esperanza  Santa Cruz;41;Estancia Kalken Aike  Esperanza
+132;Estancia La Adela  Península Valdés   [ NIMBUS ];-42.32;-64.17;36.0;INTA;MAY  2012 ;Puerto Piramides;39;Ea La Adela Península Valdés
+133;Estancia los Flamencos   [ Davis VantageVue ];-53.4;-68.07;36.0;INTA;ENE  2013 ;Flamencos;61;Estancia Loslamencos
+134;Estancia San Jorge   [ Growheather ];-44.44;-65.5;36.0;INTA;SEP  2014 ;Camarones;53;Estancia San Jorge
+135;Estancia Tecka   [ Meteortec Tecmes ];-43.5;-71.09;36.0;INTA;ABR  2016 ;Tecka;57;Estancia Tecka
+136;Futaleufú   ;-43.07;-71.38;36.0;INTA;JUN  2009 ;Presa Futaleufú;48;Hidr. Fut   Presa Futaleufú
+137;Gaiman    [ Vantage Pro2 ];-43.18;-65.34;36.0;INTA;MAR  2005 ;Gaiman;2;Chacra nº 229
+138;Gaiman  Patagonian Fruit   [ iMetos ];-43.19;-65.3;36.0;INTA;OCT  2015 ;Gaiman;55;Chacra Patagonian Fruit
+139;Gaiman – Escuela Agrotécnica   ;-43.2;-65.28;36.0;INTA;JUN  2017 ;Gaiman;71;Escuela Agrotécnica N° 733  Gaiman
+140;Gastre  Salina El Molle   [ Meteortec Tecmes ];-42.17;-69.35;36.0;INTA;MAR  2016 ;Gastre;56;Estancia Linares
+141;Gdor. Costa   [ Vantage Pro2 ];-44.1;-70.33;36.0;INTA;NOV  1999 ;Gobernador Costa;16;Ea. Don Silverio
+142;Gualjaina   ;0.0;0.0;36.0;INTA;NOV  0001 ;Gualjaina;43;Establecimiento Camuzzi S.A
+143;Huemul   ;-43.02;-71.5;36.0;INTA;JUN  2009 ;Huemul;51;Lago Amutui Quimei
+144;INTAGdor. Gregores   [ Davis ];0.0;0.0;36.0;INTA;ENE  2010 ;Gob. Gregores;9;INTA Chacra Gregores
+145;Lago Fontana   [ Meteortec Tecmes ];-44.58;-71.23;36.0;INTA;ABR  2016 ;Lago Fontana;58;Gendarmería Lago Fontana
+146;Lago PueloCampo Forestal Gral. San Martin   [ NIMBUS ];0.0;0.0;36.0;INTA;OCT  2011 ;Las golondrinas;68;Lago PueloCampo Forestal Gral. San Mart
+147;Laguna Fria   [ Vantage Pro2 ];-42.47;-68.09;36.0;INTA;SEP  2008 ;Laguna Fría;17;Laguna Fría  Flia Milla
+148;Languiñeo   ;-43.16;-70.25;36.0;INTA;SEP  2011 ;Languiñeo;40;Estancia Camaruco
+149;Las Golondrinas(dir.bosques)   [ Davis ];-42.02;-71.32;36.0;INTA;MAR  2010 ;Las Golondrinas;64;Dir. Bos  Las Golondrinas
+150;Los Antiguos   [ Davis ];-46.32;-71.37;36.0;INTA;AGO  1999 ;Los Antiguos;11;Chacra Don Neno
