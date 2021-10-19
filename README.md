@@ -43,3 +43,5 @@
 
 1. Analizando datos: Miramos un poco la forma de los datos y tratamos de ver si hay variables correlacionadas. Trabajamos con datos_produccion_clima_35.csv.
 2. Regresión Lineal: Miramos si los datos funcionan bien con una regresion lineal. Trabajamos con datos_produccion_clima_35.csv.
+3. Pronostico 1985- 2019 Corderos: Usamos el modelo ARIMA para interntar predecir la cantidad de corderos que van a nacer. Trabajamos con datos_produccion_clima_35.csv.
+4. Pronostico 1985- 2019 Lana: Usamos el modelo ARIMA para interntar predecir la cantidad de lana que se va obtener. Trabajamos con datos_produccion_clima_35.csv.
