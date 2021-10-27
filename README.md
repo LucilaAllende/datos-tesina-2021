@@ -21,6 +21,8 @@
     - cant_lluvia,
     - rad_solar,
     - vel_viento 
+    - acumulado_anual: lluvia acumulada durante el año
+    - acumulado_verano: lluvia acumulada durante el verano
 2. datos_produccion_anual_35.csv: Son los datos de produccion anuales de un campo.
     - fecha, el ultimo día del año ya que son los datos anuales
     - esquila, cantidad de animales (ovejas, carneros, borregos, etc) esquilados (temporada de esquila)
@@ -32,16 +34,31 @@
     - kilo_lana_p/animal, (temporada de esquila)
     - porcentaje_paricion (temporada de paricion)
 3. datos_produccion_clima_35.csv: es una combinacion de los datasets anteriores
-4. datos_forraje.csv:
-    - CG es gastre, 
-    - CT es telsen, 
-    - CPI es paso de indio, 
-    - CM Mártires
-
+3. datos_produccion_clima_35_1.csv: es una combinacion de los datasets anteriores pero con valores promedios para completar aquellos que son cero.
+4. datos_forraje.csv: Son los datos del forraje de dos años
+    - fecha
+    - gps:
+        - CG es gastre, 
+        - CT es telsen, 
+        - CPI es paso de indio, 
+        - CM Mártires
+    - coordenada completa
+    - latitud del punto
+    - longitud del punto
+    - valor pastoral
+5. datos_forraje_3_sondas.csv: es una combinacion del dataset anterior con algunas variablesmas, que son:
+    - dist_laguna_fría: una sonda del inta
+    - distancia_telsen: una sonda del inta
+    - dist_gastre: una sonda del inta
+    - sonda_cercana: una de las 3 anteriores
+    - acum_anual: acumulado de lluvia anual de la sonda cercana
+    - acum_verano: acumulado de lluva en el verano de la sonda cercana
+**Observacion: Este Dataset solo toma 200 puntos del 400, y la sonda de Gastre no tenia datos, asi que se usaron los de Laguna Fría**
 
 ## Cuadernos de Jupyter
 
-1. Analizando datos: Miramos un poco la forma de los datos y tratamos de ver si hay variables correlacionadas. Trabajamos con datos_produccion_clima_35.csv.
-2. Regresión Lineal: Miramos si los datos funcionan bien con una regresion lineal. Trabajamos con datos_produccion_clima_35.csv.
+1. Analizando datos: Miramos un poco la forma de los datos y tratamos de ver si hay variables correlacionadas. Trabajamos con datos_produccion_clima_35.csv y datos_produccion_clima_35_1.csv.
+2. Regresión Lineal: Miramos si los datos funcionan bien con una regresion lineal simple. Trabajamos con datos_produccion_clima_35_1.csv.
 3. Pronostico 1985- 2019 Corderos: Usamos el modelo ARIMA para interntar predecir la cantidad de corderos que van a nacer. Trabajamos con datos_produccion_clima_35.csv.
 4. Pronostico 1985- 2019 Lana: Usamos el modelo ARIMA para interntar predecir la cantidad de lana que se va obtener. Trabajamos con datos_produccion_clima_35.csv.
+5. Análisis Forraje: Miramos si los datos funcionan bien con una regresion lineal simṕle. Trabajamos con datos_forraje_3_sondas.csv.
