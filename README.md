@@ -62,3 +62,4 @@
 3. Pronostico 1985- 2019 Corderos: Usamos el modelo ARIMA para interntar predecir la cantidad de corderos que van a nacer. Trabajamos con datos_produccion_clima_35.csv.
 4. Pronostico 1985- 2019 Lana: Usamos el modelo ARIMA para interntar predecir la cantidad de lana que se va obtener. Trabajamos con datos_produccion_clima_35.csv.
 5. Análisis Forraje: Miramos si los datos funcionan bien con una regresion lineal simṕle. Trabajamos con datos_forraje_3_sondas.csv.
+6. Árbol de regresión Kilos Lana 2: Usamos un árbol de regresion para intentar predecir la cantidad de lana. Trabajamos con datos_produccion_clima_35_1.csv.
